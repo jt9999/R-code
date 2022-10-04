@@ -1,0 +1,16 @@
+mpg car
+20.5 car1
+20.7 car1
+21.3 car1
+20.4 car1
+21.9 car1
+21.6 car2
+22.1 car2
+20.8 car2
+22.5 car2
+22.7 car2
+19.8 car3
+20.2 car3
+20.5 car3
+20.0 car3
+20.3 car3
